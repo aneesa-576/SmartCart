@@ -21,7 +21,7 @@ Coming Soon:
 
 ## 📸 Preview
 
-> _Insert screenshot or demo link here_
+<img width="1908" height="1004" alt="Capture" src="https://github.com/user-attachments/assets/194f86ea-700a-40f1-8ff2-e8098b4c6f7b" />
 
 ---
 
