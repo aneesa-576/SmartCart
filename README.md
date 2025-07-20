@@ -49,7 +49,7 @@ SmartCart/
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/SmartCart.git
+git clone https://github.com/aneesa-576/SmartCart.git
 cd SmartCart
 
 # Create a virtual environment (optional but recommended)
@@ -69,7 +69,7 @@ streamlit run app.py
 ## 🤝 Contributing
 
 Pull requests and ideas are welcome!  
-This is a beginner-friendly open-source project built by [Aneesa Shaik](https://github.com/aneesashaik).
+This is a beginner-friendly open-source project built by [Aneesa Shaik](https://github.com/aneesa-576).
 
 ---
 
@@ -82,3 +82,13 @@ This project is licensed under the [MIT License](LICENSE).
 ## ✨ Credits
 
 Built with 💻, ☕, and late-night hustle.
+
+---
+
+## 🧑‍💻 Author
+
+**Aneesa Shaik**  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/aneesa-shaik-888030302/)
+
+---
+
